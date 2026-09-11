@@ -34,11 +34,11 @@
 
 ### 📊 Real-Time Activity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrityunjay-1664&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=mrityunjay-1664&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=mrityunjay-1664&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrityunjay-1664&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mrityunjay-1664&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
 </p>
 
 ---
