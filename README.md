@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=220&section=header&text=Mrityunjay%20Kushwaha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20%26%20Automations&descAlignY=58&descSize=18" width="100%" alt="Header" />
+  <img src="https://raw.githubusercontent.com/mrityunjay-1664/mrityunjay-1664/main/assets/header.svg" width="100%" alt="Mrityunjay Kushwaha Header" />
 </p>
 
 <!-- PROFILE AVATAR & TYPING SVG -->
@@ -32,11 +32,13 @@
 
 ---
 
-### 📈 Activity Analytics Graph
+### 📊 Real-Time Activity & Stats
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrityunjay-1664&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mrityunjay-1664&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=mrityunjay-1664&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrityunjay-1664&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="55%" />
 </p>
 
 ---
@@ -89,15 +91,7 @@
   </tr>
 </table>
 
----
-
-### 📊 Real-Time Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mrityunjay-1664&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrityunjay-1664&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,13,24&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/mrityunjay-1664/mrityunjay-1664/main/assets/footer.svg" width="100%" alt="Footer" />
 </p>
