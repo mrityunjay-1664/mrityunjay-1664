@@ -93,7 +93,7 @@
 
 ### 📊 Real-Time Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrityunjay-1664&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=mrityunjay-1664&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrityunjay-1664&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
